@@ -113,7 +113,7 @@ body {
 
 .btn-add {
   background: var(--accent);
-  color: white;
+  color: rgb(63, 219, 16);
 }
 
 .btn-add:hover {
